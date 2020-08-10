@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: localhost
+    username: bigyong
+    password: bigyong
+    virtual-host: /bigyong
+  redis:
+    port: 8065
